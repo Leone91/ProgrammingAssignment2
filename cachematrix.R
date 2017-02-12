@@ -45,7 +45,9 @@ cacheSolve <- function(x, ...) {
 
 #  x = cbind(c(2,-1),c(-1,2))
 #  m = makeCacheMatrix(x)
+    
 #  m$get()
+    
 ##       [,1] [,2]
 ##  [1,]    2   -1
 ##  [2,]   -1    2
